@@ -1,14 +1,12 @@
 {
-  "name": "skullboard-bot",
+  "name": "skullboard-bot-js",
   "version": "1.0.0",
-  "description": "Discord Skullboard Bot (JavaScript / Node.js)",
+  "description": "Discord Skullboard bot in JavaScript",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Tyler & Chloe",
-  "license": "MIT",
   "dependencies": {
     "discord.js": "^14.11.0"
   }
